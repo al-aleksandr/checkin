@@ -1,0 +1,38 @@
+{
+    "1D 85 B9 2E 0A 4F 0C A0 00 00": {
+        "Info": "Common space card", 
+        "UID": "1D 85 B9 2E 0A 4F 0C A0 00 00", 
+        "LastName": "-", 
+        "ExpDate": "31.12.2050", 
+        "State": "Active", 
+        "Type": "Visitor", 
+        "Name": "Common card #1"
+    }, 
+    "2D D7 D9 2E 0A 4F 0C A0 00 00": {
+        "Info": "Coworker's card", 
+        "UID": "2D D7 D9 2E 0A 4F 0C A0 00 00", 
+        "LastName": "-", 
+        "ExpDate": "31.12.2050", 
+        "State": "Active", 
+        "Type": "Coworker", 
+        "Name": "Coworker card #1"
+    }, 
+    "F1 54 7E DD 0A 4F 0C A0 00 00": {
+        "Info": "Administrator", 
+        "UID": "F1 54 7E DD 0A 4F 0C A0 00 00", 
+        "LastName": "-", 
+        "ExpDate": "31.12.2050", 
+        "State": "Active", 
+        "Type": "Employee", 
+        "Name": "Administrator card #1"
+    }, 
+    "6C 38 F9 10 0A 4F 0C A0 00 00": {
+        "Info": "Coffee", 
+        "UID": "6C 38 F9 10 0A 4F 0C A0 00 00", 
+        "LastName": "Coffee", 
+        "ExpDate": "31.12.2050", 
+        "State": "Active", 
+        "Type": "Sale", 
+        "Name": "Coffee"
+    }
+}
